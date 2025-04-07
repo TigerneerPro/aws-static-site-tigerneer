@@ -52,7 +52,6 @@ This project demonstrates how to deploy a **fully functional static website** us
 
 ## 📁 Folder Structure
 
-bash
 tigerneer-aws-static-website/
 ├── README.md
 └── screenshots/
