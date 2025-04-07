@@ -1,8 +1,10 @@
 # AWS Static Website Deployment — tigerneer.com
 
-![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20CloudFront-orange?logo=amazonaws)
-![License](https://img.shields.io/github/license/TigerneerPro/aws-static-site-tigerneer)
-![Status](https://img.shields.io/badge/Deployed-Live-green?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-S3%20|%20CloudFront-orange?logo=amazon-aws)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
+![Status](https://img.shields.io/badge/Deployed-Live-success)
+![Static Site](https://img.shields.io/badge/Type-Static%20Website-blue)
+![Portfolio](https://img.shields.io/badge/Project-Portfolio-critical)
 
 This project demonstrates how to deploy a **fully functional static website** using:
 - **Amazon S3** (Static website hosting)
