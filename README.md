@@ -50,6 +50,21 @@ This project demonstrates how to deploy a **fully functional static website** us
 
 ---
 
+## 📁 Folder Structure
+
+bash
+tigerneer-aws-static-website/
+├── README.md
+└── screenshots/
+    ├── 01-homepage.png
+    ├── 02-cloudfront-config.png
+    ├── 03-acm-certificate.png
+    ├── 04-s3-static-hosting.png
+    ├── 05-s3-permissions-policy.png
+    └── 06-namecheap-dns-records.png
+
+---
+
 ## 🧑‍💻 Author
 
 **Tigerneer**  
